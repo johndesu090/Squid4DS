@@ -1,7 +1,7 @@
 
-<h1 align="center">OPENVPN AUTH SCRIPT<img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h1>
+<h1 align="center">Squid 4.9 Autoscript<img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h1>
 
-<p align="center">OPENVPN AUTH SCRIPT is made by FordSenpai to minimize the time consumed and user involvement in setting up your VPS</p>
+<p align="center">Squid4DS is made by FordSenpai to replace Squid3 on AutoScriptDS script.</p>
 <p align="center">[Donations] GCASH: 09206200840 PAYPAL: johnford090@gmail.com FACEBOOK: John Ford Mangiliman</p>
 <p align="center">Facebook Support Link: https://www.facebook.com/johndesu090</p>
 
