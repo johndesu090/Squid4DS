@@ -9,7 +9,7 @@
 
 <h3 align="center">Supported Linux Distribution</h3>
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Support-Ubuntu%2014-red.svg"></a>
+  <a><img src="https://img.shields.io/badge/Support-Debian%209-red.svg"></a>
 </p>
 <h3 align="center">Services</h3>
 <p align="center">
