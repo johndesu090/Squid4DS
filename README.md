@@ -21,7 +21,9 @@
 <p align="center">
   
   ```html
-wget https://raw.githubusercontent.com/johndesu090/Squid4DS/master/remsquid.sh && chmod +x remsquid.sh && ./remsquid.sh
+wget https://raw.githubusercontent.com/johndesu090/Squid4DS/master/remsquid.sh
+chmod +x remsquid.sh
+./remsquid.sh
   ```
 
 </p>
