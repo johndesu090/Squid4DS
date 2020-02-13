@@ -46,11 +46,11 @@ apt-get -y install \
 apt-get -y build-dep squid
 
 # set squid version
-wget https://www.dropbox.com/s/9t51j6hoj70p918/squid.ver
+wget https://www.dropbox.com/s/45yzot67ipcqei9/squid.ver
 source squid.ver
 
 # decend into working directory
-wget https://www.dropbox.com/s/vi7v2k1jwl3rxns/debian9_squid4.9.tar.gz
+wget https://www.dropbox.com/s/e9ugenugoir3kbt/debian9_squid4.9.tar.gz
 tar -xzvf debian9_squid4.9.tar.gz
 pushd /root/root/build/
 
